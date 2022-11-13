@@ -1,4 +1,4 @@
-# MeBinder - A two way binding library
+# MeBinder - A lightweight two-way binding library
 
 ### Sample Example
 
