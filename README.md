@@ -28,5 +28,5 @@
 > If you want to access and update the model, you can access & update as given below, it will automatically sync the updated value wherever it has been used in view.
 
 ```javascript
-meBinder['some_key'] = 'some_other_value';
+meBinder['some_key'] = 'some_value';
 ```
