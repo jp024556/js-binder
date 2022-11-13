@@ -1,4 +1,4 @@
-# MeBinder - A lightweight two-way binding library
+# MeBinder - A lightweight two-way binding library written in JavaScript
 
 ### Sample Example
 
