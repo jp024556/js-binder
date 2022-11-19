@@ -1,5 +1,5 @@
 ; // Initialize the model that will hold the object state
-const meBinder = (() => {
+const jsBinder = (() => {
     // Update view when current state of object changes
     const updateView = (obj, prop) => {
         // Get all elements which is binded to the obj prop that got changed

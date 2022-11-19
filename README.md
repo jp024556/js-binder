@@ -13,7 +13,7 @@
 <body>
   <input data-model="input_1" type="text">
   <div data-bind="input_1"></div>
-  <script src="me-binder.js"></script>
+  <script src="js-binder.js"></script>
 </body>
 </html>
 ```
@@ -28,5 +28,5 @@
 > If you want to access and update the model, you can access & update as given below, it will automatically sync the updated value wherever it has been used in view.
 
 ```javascript
-meBinder['some_key'] = 'some_value';
+jsBinder['some_key'] = 'some_value';
 ```
