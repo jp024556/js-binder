@@ -13,7 +13,7 @@
 <body>
   <input data-model="input_1" type="text">
   <div data-bind="input_1"></div>
-  <script src="js-binder.js"></script>
+  <script src="https://raw.githubusercontent.com/jp024556/js-binder/main/js-binder.js"></script>
 </body>
 </html>
 ```
