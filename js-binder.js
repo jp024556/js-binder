@@ -25,7 +25,7 @@ const jsBinder = (() => {
         obj[attributeValue] = '';
         // Add event listener on view elements for syncing back to model
         model.addEventListener('input', (evt) => {
-            meBinder[evt.target.dataset.model] = evt.target.value;
+            jsBinder[evt.target.dataset.model] = evt.target.value;
         });
     });
 
