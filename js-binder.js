@@ -10,7 +10,7 @@ const jsBinder = (() => {
             if (nodeType === 'INPUT') {
                 element.value = obj[prop];
             } else {
-                element.textContent = obj[prop];
+                element.innerHTML = obj[prop];
             }
         });
     };
